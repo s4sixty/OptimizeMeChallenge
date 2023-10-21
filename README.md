@@ -41,7 +41,7 @@ Example:
 Non-optimized method Execution time: 1.1s = 1100ms
 Optimized method Execution time: 200ms
 
-### Result: 1100ms/200ms = 5.5x faster.
+### Result: 1200ms/5ms = 216.756x faster.
 
 ![image](https://github.com/s4sixty/OptimizeMeChallenge/assets/47923177/d321d738-29ad-437d-964a-9855faeab195)
 
