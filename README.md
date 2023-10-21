@@ -1,7 +1,6 @@
 # OptimizeMePlease
 
-## You are probably here because you saw my post on Linkedin.
-## Welcome!
+Challenge link : https://github.com/StefanTheCode/OptimizeMePlease
 
 # Steps
 
@@ -44,6 +43,5 @@ Optimized method Execution time: 200ms
 
 ### Result: 1100ms/200ms = 5.5x faster.
 
-In addition, I will check the performance on my computer for individual results.
+![image](https://github.com/s4sixty/OptimizeMeChallenge/assets/47923177/d321d738-29ad-437d-964a-9855faeab195)
 
-# GOOD LUCK!
